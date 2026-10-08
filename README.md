@@ -1,4 +1,4 @@
-# Bonjour, je suis Sèmine Oyenian 👋
+# Bonjour, je suis Sèmine Oyenian 
 
 ### Développeur Web et Solutions de Gestion
 
@@ -67,4 +67,4 @@ Mon objectif est de développer des solutions numériques utiles aux entreprises
 
 ---
 
-⭐ N'hésitez pas à explorer mes repositories pour découvrir mes différents projets.
+ N'hésitez pas à explorer mes repositories pour découvrir mes différents projets.
